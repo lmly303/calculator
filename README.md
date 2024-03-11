@@ -24,7 +24,7 @@ This Python script implements a basic calculator that performs arithmetic operat
 
 Suppose you want to perform addition of two numbers:
 
-Welcome to my calculator
+Welcome to my calculator :-
 
 Enter the first number : 10
 
