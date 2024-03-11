@@ -19,5 +19,5 @@ def operation(status):
             return "Invalid operation"
 
 
-result = operation(status)
-print("Result:", result)
+r = operation(status)
+print("Result:", r)
